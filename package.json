@@ -1,0 +1,34 @@
+{
+  "dependencies": {
+    "bootstrap": "^4.6.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "curso-nodejs",
+  "version": "1.0.0",
+  "description": "projeto node",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuizBa/cursonode.git"
+  },
+  "keywords": [
+    "nodejs",
+    "npm",
+    "express",
+    "fs",
+    "path",
+    "url",
+    "mongodb",
+    "udp",
+    "crypto"
+  ],
+  "author": "Luiz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LuizBa/cursonode/issues"
+  },
+  "homepage": "https://github.com/LuizBa/cursonode#readme"
+}
